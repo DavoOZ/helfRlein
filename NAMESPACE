@@ -3,7 +3,6 @@
 S3method(plot,sci)
 export("%nin%")
 export(burglr)
-export(char_replace)
 export(checkdir)
 export(clean_gc)
 export(count_na)
